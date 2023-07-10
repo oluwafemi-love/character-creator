@@ -10,6 +10,12 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+
+  /*Femi's Style:*/
+  overflow: auto;
+  white-space: nowrap;
+  /* position: relative;
+  z-index: 1; */
 }
 
 .title {

@@ -24,6 +24,12 @@
 }
 
 .characterWrapper {
+  height: 454.7px; /*40% of the parent(main) is 454.7 for some reason I don't know % unit isn't working */
+  background-color:hsl(195deg, 20%, 86%);
+  margin-bottom: -64px;
+  position: sticky;
+  bottom:-64px;
+  
 }
 
 .controlColumn {
