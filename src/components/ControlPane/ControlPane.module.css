@@ -14,8 +14,8 @@
   /*Femi's Style:*/
   overflow: auto;
   white-space: nowrap;
-  /* position: relative;
-  z-index: 1; */
+  position: relative;
+  z-index: 1;
 }
 
 .title {
