@@ -5,10 +5,13 @@
   margin-left: auto;
   margin-right: auto;
 }
-.maxWidthWrapper header{
+
+/**Writing this style here is likewise good but why not let's allow this component to do just what it does only. That is Wrap(Frame) her children, every other detail pertaning to her child should be left for another component. **/
+
+/* .maxWidthWrapper header{
   max-width: 65%;
 }
 
 .maxWidthWrapper > div{
   max-width: 50%;
-}
+} */

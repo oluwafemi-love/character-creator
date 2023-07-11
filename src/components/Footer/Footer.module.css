@@ -8,6 +8,9 @@
 
 /*Femi's Style:*/
 .footer a{
-  color: hsl(1deg 100% 100%);
+  /*color: hsl(1deg 100% 100%);*/
+
+   /*Much better: because it affords me the opportunity when a text color change is made in the parent(Footer), it automatically changes the child(a) too.*/
+  color: inherit;
 }
 

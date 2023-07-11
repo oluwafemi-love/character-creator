@@ -12,10 +12,12 @@
   margin-bottom: 32px;
 
   /*Femi's Style:*/
-  overflow: auto;
+  /* overflow: auto;
   white-space: nowrap;
   position: relative;
-  z-index: 1;
+  z-index: 1; */
+
+  /* The above code will affect the whole children but what we want is to style just the buttons. */
 }
 
 .title {
